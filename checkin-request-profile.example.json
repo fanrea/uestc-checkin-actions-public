@@ -1,0 +1,18 @@
+{
+  "configured": false,
+  "description": "仅为字段模板。填写自己的实际位置和设备信息后，将 configured 设为 true。模板不会直接用于提交。",
+  "payload": {
+    "latitude": 0,
+    "longitude": 0,
+    "reverseGeocode": "REPLACE_WITH_YOUR_ACTUAL_ADDRESS",
+    "userAgent": "REPLACE_WITH_YOUR_DEVICE_USER_AGENT",
+    "coordinateSystemCode": "gcj02",
+    "accuracy": 30,
+    "locationDurationMs": 1200,
+    "networkTypeCode": "wifi",
+    "locationEnabled": true,
+    "locationAuthorized": "authorized",
+    "locationAccuracy": "full",
+    "errorMessage": ""
+  }
+}

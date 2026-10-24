@@ -1,0 +1,2 @@
+-r requirements.txt
+frida==16.2.1
